@@ -1073,7 +1073,7 @@
                   "value": "1000"
                 },
                 "memoryLimit": {
-                  "value": "512"
+                  "value": "512Mi"
                 },
                 "excludedNamespaces": {
                   "value": [
